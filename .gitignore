@@ -130,3 +130,6 @@ dmypy.json
 
 # Conda
 .conda_envs_dir_test
+
+# Ignore large files (data files are unchanged from cited source)
+data/TrainAndValid.csv
