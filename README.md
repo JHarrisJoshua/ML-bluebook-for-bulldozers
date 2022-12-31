@@ -14,3 +14,6 @@ Full documentation included in the jupyter notebooks:
 
     - Model includes enhanced exploratory data analysis(EDA) and additional hyperparameter tuning using RandomizedSearchCV. 
   
+  
+Create a conda environment from a YAML file:
+`conda env create --prefix ./env -f environment.yml`
