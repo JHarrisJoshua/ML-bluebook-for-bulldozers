@@ -134,3 +134,5 @@ dmypy.json
 # Ignore large files (data files are unchanged from cited source)
 data/TrainAndValid.csv
 data/df_train_validate.csv
+data/Train.csv
+data/Valid.csv
